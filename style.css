@@ -1,0 +1,13 @@
+body {
+  background: #D0CEDF;
+  font-family: 'Gayathri', sans-serif;
+}
+
+.card-title {
+  text-align: center;
+  font-size: 30px;
+}
+
+.card {
+  background: #EEEDF3;
+}
