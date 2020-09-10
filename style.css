@@ -1,14 +1,16 @@
 body {
-  background: #D0CEDF;
+  background: url('./img/test.jpg');
   font-family: 'Gayathri', sans-serif;
 }
 
 .card-title {
   text-align: center;
-  font-size: 40px;
+  font-size: 100px;
   padding: 30px;
 }
 
+
 .card {
-  background: #EEEDF3;
+  background: #F6EBE7;
+  margin-top: 30px;
 }
