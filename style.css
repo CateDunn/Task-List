@@ -1,5 +1,5 @@
 body {
-  background: url('./img/test.jpg');
+  background: url('./img/test.jpg') no-repeat;
   font-family: 'Gayathri', sans-serif;
 }
 
